@@ -1,4 +1,14 @@
-.pizdec{
-    font-size: 100px;
-    font-family: Arial;
+.p{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 60px;
+}
+
+.conteiner{
+    display: flex;
+    padding: 30px 30px 30px 30px;
+}
+
+.img{
+    height: 400px;
+
 }
